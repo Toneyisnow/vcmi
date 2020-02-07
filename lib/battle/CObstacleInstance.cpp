@@ -115,7 +115,7 @@ SpellCreatedObstacle::SpellCreatedObstacle()
 	animationYOffset(0)
 {
 	obstacleType = SPELL_CREATED;
-}
+}   
 
 bool SpellCreatedObstacle::visibleForSide(ui8 side, bool hasNativeStack) const
 {
